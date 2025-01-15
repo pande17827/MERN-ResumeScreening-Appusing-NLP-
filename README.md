@@ -1,6 +1,6 @@
 # MERN Resume Screening App using NLP
 
-![App Screenshot](screenshsot.jpg)
+![App Screenshot](https://github.com/pande17827/MERN-ResumeScreening-Appusing-NLP-/raw/main/screenshots/app_screenshot.png)
 
 ## Overview
 
@@ -8,11 +8,11 @@ The MERN Resume Screening App is a web application designed to automate the proc
 
 ## Features
 
-- **Automated Resume Parsing**: Extracts relevant information from uploaded resumes.
-- **NLP-Based Analysis**: Utilizes NLP to evaluate and categorize resumes.
-- **User-Friendly Interface**: Intuitive design for easy navigation and use.
-- **Real-Time Processing**: Quickly processes resumes to provide immediate feedback.
-- **Scalability**: Built with the MERN stack to ensure scalability and performance.
+- 📝 **Automated Resume Parsing**: Extracts relevant information from uploaded resumes.
+- 🤖 **NLP-Based Analysis**: Utilizes NLP to evaluate and categorize resumes.
+- 🖥️ **User-Friendly Interface**: Intuitive design for easy navigation and use.
+- ⚡ **Real-Time Processing**: Quickly processes resumes to provide immediate feedback.
+- 📈 **Scalability**: Built with the MERN stack to ensure scalability and performance.
 
 ## Installation
 
@@ -71,17 +71,17 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-1. **Upload Resume**: Navigate to the upload section and submit a resume in PDF or DOCX format.
-2. **View Analysis**: After uploading, the app will display the parsed information and categorize the resume based on its content.
-3. **Review Recommendations**: Receive suggestions to improve the resume's alignment with desired job roles.
+1. 📂 **Upload Resume**: Navigate to the upload section and submit a resume in PDF or DOCX format.
+2. 🔍 **View Analysis**: After uploading, the app will display the parsed information and categorize the resume based on its content.
+3. 📋 **Review Recommendations**: Receive suggestions to improve the resume's alignment with desired job roles.
 
 ## Technologies Used
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Natural Language Processing**: Python's NLTK library
-- **Deployment**: Docker, Kubernetes
+- 🌐 **Frontend**: React.js, HTML5, CSS3, JavaScript
+- 🖧 **Backend**: Node.js, Express.js
+- 🗄️ **Database**: MongoDB
+- 📚 **Natural Language Processing**: Python's NLTK library
+- 🚀 **Deployment**: Docker, Kubernetes
 
 ## Contributing
 
@@ -99,10 +99,10 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Acknowledgements
 
-- [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
-- [MERN Stack Documentation](https://www.mongodb.com/mern-stack)
-- [Docker Documentation](https://docs.docker.com/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- 📖 [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
+- 📚 [MERN Stack Documentation](https://www.mongodb.com/mern-stack)
+- 🐳 [Docker Documentation](https://docs.docker.com/)
+- ☸️ [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
 ## Contact
 
