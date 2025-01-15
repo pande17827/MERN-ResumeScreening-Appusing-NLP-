@@ -1,6 +1,6 @@
 # MERN Resume Screening App using NLP
 
-![App Screenshot](https://github.com/pande17827/MERN-ResumeScreening-Appusing-NLP-/raw/main/screenshots/app_screenshot.png)
+![App Screenshot](screenshsot.jpg)
 
 ## Overview
 
